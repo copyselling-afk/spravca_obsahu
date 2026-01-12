@@ -1,0 +1,1 @@
+# spravca_obsahu
