@@ -1,0 +1,9 @@
+{
+  "knowledge_base": {
+    "doctrine": "knowledge/TRIAS_Edge_Doctrine.md",
+    "procurement_infiltration": "knowledge/Procurement_Infiltration.md",
+    "strategic_buying_logic": "knowledge/Strategic_Buying_Logic.md",
+    "ai_buyer_behavior": "knowledge/AI_Buyer_Behavior_Map.md",
+    "content_methodology": "knowledge/TRIAS_Content_Methodology.md"
+  }
+}
